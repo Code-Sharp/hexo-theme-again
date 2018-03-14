@@ -1,23 +1,19 @@
 # basic
-title: lyyourc
-subtitle: You Are The JavaScript In My HTML
-favicon: favicon.ico
+title: CodeSharp
+subtitle: Stronger Better Faster Sharper
+# favicon: favicon.ico
 
-# avatar: images/avatar.png
-# banner_small: images/banner-small.png
-# banner_large: images/banner-large.png
-avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
-banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
-banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+avatar: images/avatar.png
+banner_small: images/cover.png
+banner_large: images/cover.png
 
 # disqus
-disqus_shortname: drakeleung
+# disqus_shortname: codesharpco
 
 # social
 social:
-  github: https://github.com/DrakeLeung
-  twitter: https://twitter.com/DrakeLeung
-  weibo: http://weibo.com/cha12chalyc
+  github: https://github.com/Code-Sharp
+  twitter: https://twitter.com/codesharpco
 
 # nav #
 nav:
@@ -27,10 +23,10 @@ nav:
   rss: atom.xml
 
 # heox-renderre-sass
-node_sass:
-  outputStyle: nested
-  precision: 5
-  sourceComments: false
+#node_sass:
+#  outputStyle: nested
+#  precision: 5
+#  sourceComments: false
 
 
-google_analytics: # Put tracking ID here
+google_analytics: UA-98663639-3
